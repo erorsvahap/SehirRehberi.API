@@ -1,0 +1,6 @@
+@SehirRehberi.API_HostAddress = http://localhost:5253
+
+GET {{SehirRehberi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
